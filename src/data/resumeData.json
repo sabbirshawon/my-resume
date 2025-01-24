@@ -1,0 +1,103 @@
+{
+  "personalInfo": {
+    "name": "Sabbir Ahmed Shawon",
+    "title": "Software Engineer",
+    "phone": "+8801750118746",
+    "email": "sabbirshaawon@gmail.com",
+    "social": {
+      "GitHub": "https://github.com/sabbirshawon",
+      "LinkedIn": "https://www.linkedin.com/in/sabbirshawon/",
+      "LeetCode": "https://leetcode.com/sabbirshawon/"
+    }
+  },
+  "summary": "Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.",
+  "experiences": [
+    {
+      "title": "Senior Software Developer",
+      "company": "VALT - Sylhet, Bangladesh",
+      "duration": "May 2023 - January 2025",
+      "responsibilities": [
+        "Collaborated with cross-functional teams to design, develop, and implement new features",
+        "Optimized existing code for improved efficiency, readability, and maintainability",
+        "Working with Stocks, Purchase Order for online pos ordering system (yofoodie)"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Digita Interactive Limited - Sylhet, Bangladesh",
+      "duration": "Nov 2018 - Dec 2022",
+      "responsibilities": [
+        "Working with foreign client issues by establishing workarounds and solutions",
+        "Working on a WhatsApp ordering-based SAAS eCommerce system",
+        "Developed the entire customer onboarding with Email verification"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BSc in CSE",
+      "institution": "Metropolitan University",
+      "location": "Sylhet, Bangladesh"
+    }
+  ],
+  "activities": [
+    {
+      "title": "CSE Week 2015 Online Contest",
+      "details": [
+        "16th among 989 contestants"
+      ]
+    },
+    {
+      "title": "MU IT Festival Programming Contest 2015",
+      "details": [
+        "Runners Up Team - MU_ERROR_CODER"
+      ]
+    },
+    {
+      "title": "ACM ICPC Dhaka Regional Preliminary Contest 2015",
+      "details": [
+        "297th among 985 Team - MU_Wings"
+      ]
+    },
+    {
+      "title": "International Conference on Bangla Speech and Language Processing, SUST-2018",
+      "details": [
+        "Best Award for Sjolit Nagri Keyboard"
+      ]
+    },
+    {
+      "title": "Opensource contributor & maintainer",
+      "details": [
+        "Devsonket"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Car Rental Application",
+      "tech": "Tech: MERN Stack Project",
+      "details": [
+        "Online Rent car rental application with all kind of information",
+        "Search car for rent",
+        "Live tracking rent car map"
+      ]
+    },
+    {
+      "name": "Library System: Bookend",
+      "tech": "Tech: MERN Stack Project",
+      "details": [
+        "Online Library with Free and Premium Books",
+        "Update books using dashboard",
+        "Online Payment System for read books"
+      ]
+    }
+  ],
+  "skills": {
+    "JavaScript": 5,
+    "TypeScript": 4,
+    "MERN": 3,
+    "PHP, WordPress": 4,
+    "Testing & Debugging": 3,
+    "Python, C, C++": 2
+  }
+}
